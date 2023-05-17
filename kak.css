@@ -1,0 +1,187 @@
+body{
+background-color: rgb(0, 0, 0);
+}
+.b{
+  height: 30px;
+  background-color: rgb(224, 202, 0);
+}
+.kkl{
+    position: Absolute;
+    left: 100px;
+    top: 3px;
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    }
+.C{
+    font-family: algerian;
+    color: black;
+    position: absolute;
+    top: 12px;
+    left: 150px;
+}
+/*button*/
+.d{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 7px;
+font-weight: bold;
+background-color: #1e90ff;
+width: 50px;
+height: 10px;
+padding: 5px;
+text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+color: #fff;
+border-radius: 5px;
+cursor: pointer;
+box-shadow: 0 0 0 10px rgba(0, 0 ,0, 0.1);
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-property: box shadow,transform;
+transition-property: box shadow,transform;
+position: absolute;
+left: 700px;
+top: 15px;
+}
+
+.d:hover,.d:hover,.d:hover{
+ box-shadow: 0 0 20px rgba(0, 0 ,0, 0.5) ;
+ -webkit-transform: scale(1.1);
+ transform: scale(1.1);
+}
+/*button*/
+.e{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 7px;
+        font-weight: bold;
+        background-color: #1e90ff;
+        width: 50px;
+        height: 10px;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 0 0 10px rgba(0, 0 ,0, 0.1);
+        -webkit-transition-duration: 0.3s;
+        transition-duration: 0.3s;
+        -webkit-transition-property: box shadow,transform;
+        transition-property: box shadow,transform;
+        position: absolute;
+        left: 800px;
+        top: 15px;
+        }
+        .e:hover,.e:hover,.e:hover{
+            box-shadow: 0 0 20px rgba(0, 0 ,0, 0.5) ;
+            -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+           }
+           .k{
+            position: absolute;
+            left: 780px;
+            top: 15px;
+           }
+           .kx{
+            color: #fff;
+           }
+           .mj{
+             font-size: 30px;
+             color: #fff;
+             text-align: center;
+           }
+           .h{
+            color: orange;
+            position: absolute;
+            top: 150px;
+           }
+           .l{
+              color: orange;
+              position: absolute;
+              top: 170px;
+           }
+           .m{
+            color: orange;
+            position: absolute;
+            top: 190px;
+           }
+           .n{
+            color: orange;
+            position: absolute;
+            top: 210px;
+           }
+           .jls{
+            color: #fff;
+            position: absolute;
+            top: 250px;
+           }
+           .o{
+            color: orange;
+            position: absolute;
+            top: 270px;
+           }
+           .p{
+            color: orange;
+            position: absolute;
+            top: 290px;
+           }
+           .q{
+            color: orange;
+            position: absolute;
+            top: 310px;
+           }
+           .r{
+            color: orange;
+            position: absolute;
+            top: 330px;
+           }
+           .s{
+            color: orange;
+            position: absolute;
+            top: 350px;
+           }
+           .col{
+            position: absolute;
+            left: 250px;
+            top: 400px;
+           }
+           .mks{
+            color: #fff;
+            position: absolute;
+            top: 400px;
+           }
+           .aks{
+            color: orange;
+            position: absolute;
+            top: 420px;
+           }
+           .kks{
+            color: orange;
+            position: absolute;
+            top: 440px;
+           }
+           .gks{
+            color: orange;
+            position: absolute;
+            top: 460px;
+           }
+           .zks{
+            color: orange;
+            position: absolute;
+            top: 480px;
+           }
+           .sks{
+            position: absolute;
+            left: 300px;
+            top: 150px;
+           }
+           .yks{
+            position: absolute;
+            left: 500px;
+            top: 150px;
+           }
+
+
+
